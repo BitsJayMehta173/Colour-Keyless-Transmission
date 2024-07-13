@@ -62,4 +62,4 @@ Before we didn't had internet when we used simple techniques for encryption but 
 
 ----------------------------------------------
 
-I believe Web3 gave us the autonomous system but I believe the Next Gen Will be Web3ServerMachineRandomization
+I believe Web3 gave us the autonomous system but I also would like to express the Next Gen Will be Web3ServerMachineRandomization (Possibilties)
