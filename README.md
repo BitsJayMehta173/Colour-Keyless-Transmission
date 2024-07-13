@@ -53,3 +53,9 @@ As we have synonyms in our language for every word Machine will also have synony
 This is just a simple overview of the idea to introduce the Concept while the original idea is more complex then this and Uses More Complexion.
 
 I have tried to Make the simple model to express my concerns for a new approach.
+
+----------------------------------------------
+
+Our Personal Life is invaded always because of the classifiers in our datas which we send over internet maybe if you want to know the pros and cons we can see it for ourselves now.
+
+Before we didn't had internet when we used simple techniques for encryption but now we have availability of internet and Social Medias are the best example for small world networks so we don't have to worry there is millions of possibilities for this kind of communication.
