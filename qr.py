@@ -13,8 +13,7 @@ def generate_qr_code(text, filename):
     img = qr.make_image(fill='black', back_color='white')
     img.save(filename)
 
-# Example usage
-text = "Hello, this is a QR code for plain text!"
+text = "Test Plain Text!"
 filename = "qrcode.png"
 generate_qr_code(text, filename)
 print(f"QR code saved as {filename}")
