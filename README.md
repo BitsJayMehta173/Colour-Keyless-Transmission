@@ -46,6 +46,8 @@ Now as we have a public Language Code in both side We are using our app Authenti
 
 Now We have Connected One more member and So goes On With the Help of Small World Network system.
 
+As we have synonyms in our language for every word Machine will also have synonyms So that even if it tries to serve you food you will think he said you to sleep instead.
+
 ----------------------------------------------
 
 This is just a simple overview of the idea to introduce the Concept while the original idea is more complex then this and Uses More Complexion.
