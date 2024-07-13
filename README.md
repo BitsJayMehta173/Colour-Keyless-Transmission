@@ -25,3 +25,29 @@ I have given an overview of the project over there.
 I will create a chat application to demonstrate the full process and try to attack the machines with different approach to decrypt the messege he is trying to send.
 
 We follow the Small World Network Approach to Solve all the Problems we encounter Anywhere As the model is like Virus Spreading But It follows like Whatever Goes Around Comes Around..🪦
+
+# Process Explained
+
+Initial Phase::(DAY1)(Of Release) Two Friends who meet each other wants to messege each other.
+
+They will share their QR code which has Language Book.
+
+Both Learns The Language.
+
+And Now Whatever You Speak will be your Common Language which only you two know.
+
+Now bring small world network which means every person is within the proximity of 4-6 link away.
+
+If everywhere people connect with atleast between two.
+
+If someone is common Link betweeen two new Machine The will get a public Language Code which is in common Machine Language and as both the Machine knows the language of Middle Common Machine in which it speaks with them it will send the code in its language to both which is also not decryptable.
+
+Now as we have a public Language Code in both side We are using our app Authenticator Part which has a hard coded language for many language and as both Machine have same Language Book Dictionary and will get same Language Book they will talk with that book for some time and Come out with their own Language Book to Communicate with Each Other.
+
+Now We have Connected One more member and So goes On With the Help of Small World Network system.
+
+----------------------------------------------
+
+This is just a simple overview of the idea to introduce the Concept while the original idea is more complex then this and Uses More Complexion.
+
+I have tried to Make the simple model to express my concerns for a new approach.
