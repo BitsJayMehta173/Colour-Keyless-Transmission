@@ -30,7 +30,7 @@ We follow the Small World Network Approach to Solve all the Problems we encounte
 
 Initial Phase::(DAY1)(Of Release) Two Friends who meet each other wants to messege each other.
 
-They will share their QR code which has Language Book.
+They will share their QR code which has Language Book. (As Camera is not linked with any form of Network Safest way)
 
 Both Learns The Language.
 
