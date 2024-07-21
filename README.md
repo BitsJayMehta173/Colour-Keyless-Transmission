@@ -6,6 +6,8 @@ Added a Confusion Matrix for hardcoded table
 
 Every Values are permutated to different places as to create a confusion to make a process where if you gather code from more than 2 middle linkers and combine it you will get a unique code which corresponds to a certain table and when you try to analyse the code you will be confused as which table it is because each table has same values permutated even if you get the exact code the machines will be far away as after they learn a language they can shift to other language table they create themselves and in each point they will change the base and can also create their own language to talk just like human synonyms and idioms and all other different intelligent form of talking we use in our life.
 
+The Network satisfies as more number of linkers more stronger the language model as we can have millions of permutation and millions of ways but still no one can predict it only when all the linkers come together and try the cracking is it possible but eventually they will be the one who can take it out so the immediate attention will be on them.
+
 -----------------------------
 
 The concept eliminates the mathematical approaches for the encryption method and approaches towards the Machine Language Model which works on randomized Match
