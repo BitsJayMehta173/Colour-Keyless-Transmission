@@ -104,7 +104,7 @@ tablegen(0, 9,"uniquepublickey");
 //     rl.close();
 // });
 
-console.log(keytable);
+// console.log(keytable);
 
 // Now as we have single keytable for personal device we convert the table into qr code and share it with the nearby device and the device will convert the qr code to the table.
 // both the sides can talk in secured way as they have their own chat keytable and exchange each others keytable which will be their personal language
@@ -118,5 +118,51 @@ console.log(keytable);
 // Now they will communicate using this keytable and decide the keytable among themselves and then again secure themselves as y can also turn into the man in middle attacker (if the y is notified of connection he can still corrupt the process so we have to make a protective layer of information and further more we can make only two time entry in the  table)
 
 
+let visited = {};
+let arr = [];
+let ind = 0;
+let confusionmatrix=[];
 
+function addRow() {
+    let newRow = [];
+    confusionmatrix.push(newRow);
+}
 
+Object.keys(keytable).forEach(key => {
+    arr.push(keytable[key]);
+    visited[ind] = 0;
+    ind += 1;
+});
+
+let soul = 0;
+// we can also use soul operator to use visited as 1 one time and in next loop 0 to optimize less time as every value will be 1 in which we use 0 as visited and again all will be 0 then we can use 1
+
+for (let i = 0; i < 2; i++) {
+    let newkeytable = {};
+    Object.keys(keytable).forEach(key => {
+        let x = Math.floor(Math.random() * arr.length);
+        console.log(soul, visited[x], x);
+        if (visited[x] == 0) {
+            newkeytable[key] = arr[x];
+            console.log(x);
+            visited[x] = 1;
+        } else {
+            while (true) {
+                x = (x + 1) % arr.length; 
+                if (visited[x] == 0) {
+                    newkeytable[key] = arr[x];
+                    console.log(x);
+                    visited[x] = 1; 
+                    break;
+                }
+            }
+        }
+    });
+    confusionmatrix.push(newkeytable);
+    for (let j = 0; j < ind; j++) {
+        visited[j] = 0;
+    }
+    console.log("done");
+}
+
+console.log(confusionmatrix);
